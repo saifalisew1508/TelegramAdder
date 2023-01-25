@@ -1,0 +1,4 @@
+telethon
+keyboard
+colorama
+pyfiglet
