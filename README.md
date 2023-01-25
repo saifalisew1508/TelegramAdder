@@ -59,7 +59,11 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 # News
 
-* I have also created a scraper and adder which lets you add accounts only via phone number(no api needed). If you need it contact me:
+* I have also created a scraper and adder which lets you add accounts only via phone number(no api needed). If you need it see below this text:
+
+<p align="center"><a href="https://github.com/saifalisew1508/Telegram-Members-Adder"><img src="https://github-readme-stats.vercel.app/api/pin?username=saifalisew1508&show_icons=true&theme=dracula&hide_border=true&repo=Telegram-Members-Adder"></a></p>
+
+<p align="center">
  
 [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/PrinceXofficial) 
 * If you have any problems regarding the script then write it in this groupchat:
